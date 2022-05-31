@@ -1,2 +1,4 @@
-# llampi.github.io
-Proyecto CC451A Interacción humano computador
+# Proyecto Interacción Humano Computador CC451A
+Descripcion
+Integrantes
+Enlaces a entregables
